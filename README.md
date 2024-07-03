@@ -2,7 +2,7 @@
 
 Hello Everyone, I created a responsive 404 Not Found Page Using Angular and Tailwind-CSS Framework.
 
-Angular CLI version - 18.0.6
+Angular CLI version - 18.0.6 <br />
 Node Version - 20.15.0
 
 ## Further help
